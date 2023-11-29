@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Piumra-Prathiban
 - 👀 I’m interested in Python coding and video editing
 - 🌱 I’m currently learning Python programming
+- 📩 my gmail = piumrawork@gmail.com
 
 
 
