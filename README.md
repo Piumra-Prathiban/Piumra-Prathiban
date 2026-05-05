@@ -7,6 +7,6 @@
 - **Location:** Malabe / Ambalantota, Sri Lanka
 - ## GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Piumra-Prathiban&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Piumra-Prathiban&theme=light&hide_border=true)](https://git.io/streak-stats)
 
 ---
