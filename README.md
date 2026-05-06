@@ -5,7 +5,5 @@
 - **LinkedIn:** [piumra-prathiban](https://www.linkedin.com/in/piumra-prathiban-019745311/)
 - **Email:** piumrawork@gmail.com
 - **Location:** Malabe / Ambalantota, Sri Lanka
--  ## GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Piumra-Prathiban&theme=light&hide_border=true)](https://git.io/streak-stats)
----
+- 
+![Snake animation](https://github.com/Piumra-Prathiban/Piumra-Prathiban/blob/output/github-contribution-grid-snake-dark.svg)
