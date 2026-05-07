@@ -4,5 +4,5 @@
 
 - **LinkedIn:** [piumra-prathiban](https://www.linkedin.com/in/piumra-prathiban-019745311/)
 - **Email:** piumrawork@gmail.com
-- **Location:** Malabe / Ambalantota, Sri Lanka
+- **Location:** Malabe, Sri Lanka
 
