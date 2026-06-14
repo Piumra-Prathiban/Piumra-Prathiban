@@ -5,5 +5,3 @@
 - **LinkedIn:** [piumra-prathiban](https://www.linkedin.com/in/piumra-prathiban-019745311/)
 - **Email:** piumrawork@gmail.com
 - **Location:** Malabe, Sri Lanka
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Piumra-Prathiban)](https://git.io/streak-stats)
